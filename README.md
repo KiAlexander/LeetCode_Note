@@ -103,5 +103,3 @@ leetcode personal note
 * [x] [974_subarray-sums-divisible-by-k.cpp]
 * [x] [97_interleaving-string.cpp]
 * [x] [9_palindrome-number.cpp]
-
-
